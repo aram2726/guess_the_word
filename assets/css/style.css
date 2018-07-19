@@ -1,0 +1,19 @@
+button {
+	margin: 5px 10px;
+	padding: 5px 10px;
+	height: 30px;
+	width: 30px;
+	background-color: #333;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+	color: #fff;
+}
+
+#hint button {
+	width: auto;
+}
+
+#question, #answer {
+	margin: 10px 0 0 20px;
+}
